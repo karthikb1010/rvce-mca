@@ -1,2 +1,2 @@
-# rvce-mca
+# RVCE MCA
 Timetable
